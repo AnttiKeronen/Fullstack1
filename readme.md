@@ -1,5 +1,8 @@
 Antti Keronen 001855050 Full-Stack
 
+Link to program running video:
+https://youtu.be/4suPQvGnZV8
+
 This is the BudgetThing! Its a simple budgeting tool to track your monthly expenses. You can make an account and login, and your budget is stored.
 
 How to use: After logging in, in the month part you can change which month's expenses do you want to track. Under month is your total spent euros during the month you chose. Next to spent is remaining euros left in your budget. In the monthly budget bos you can set your monthly budget.
