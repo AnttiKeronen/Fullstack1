@@ -8,12 +8,14 @@ You can add expenses. When adding expenses remember to fill every field so you c
 
 How to run:
 
-create a .env file into the root and fill out the needed info, fo example
+create a .env file into the root and fill out the needed info, for example
 
 NODE_ENV = development
 PORT = 5000
 MONGO_URI = mongodb+srv://YOURMONGOURI
 JWT_SECRET = abc123
+
+If the examiner doesnt have mongodb atlas and wants to see if it works, then I can provide my username and password for it.
 
 Go to the root
 
